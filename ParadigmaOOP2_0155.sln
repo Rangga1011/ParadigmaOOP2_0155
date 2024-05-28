@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ParadigmaOOP2_0155", "Parad
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Overiding", "Overiding\Overiding.vcxproj", "{E9565468-ED8A-4738-B30F-71125AA06B82}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "No pewarisan", "No pewarisan\No pewarisan.vcxproj", "{60BE9BC3-CB32-42B5-B329-C85F0470A927}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{E9565468-ED8A-4738-B30F-71125AA06B82}.Release|x64.Build.0 = Release|x64
 		{E9565468-ED8A-4738-B30F-71125AA06B82}.Release|x86.ActiveCfg = Release|Win32
 		{E9565468-ED8A-4738-B30F-71125AA06B82}.Release|x86.Build.0 = Release|Win32
+		{60BE9BC3-CB32-42B5-B329-C85F0470A927}.Debug|x64.ActiveCfg = Debug|x64
+		{60BE9BC3-CB32-42B5-B329-C85F0470A927}.Debug|x64.Build.0 = Debug|x64
+		{60BE9BC3-CB32-42B5-B329-C85F0470A927}.Debug|x86.ActiveCfg = Debug|Win32
+		{60BE9BC3-CB32-42B5-B329-C85F0470A927}.Debug|x86.Build.0 = Debug|Win32
+		{60BE9BC3-CB32-42B5-B329-C85F0470A927}.Release|x64.ActiveCfg = Release|x64
+		{60BE9BC3-CB32-42B5-B329-C85F0470A927}.Release|x64.Build.0 = Release|x64
+		{60BE9BC3-CB32-42B5-B329-C85F0470A927}.Release|x86.ActiveCfg = Release|Win32
+		{60BE9BC3-CB32-42B5-B329-C85F0470A927}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
