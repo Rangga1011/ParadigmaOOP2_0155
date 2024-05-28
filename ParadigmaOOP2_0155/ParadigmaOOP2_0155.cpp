@@ -8,11 +8,20 @@ public:
 	virtual void pesan() = 0;
 
 	//virtual function biasa
-	virtual void pesan()
-	{
-		cout << "pesan dari seseorang" << endl;
-	}
+	//virtual void pesan()
+	//{
+	//	cout << "pesan dari seseorang" << endl;
+	//}
 };
+
+class joko : public seseorang
+{
+public:
+	// desklarasi
+
+};
+
+
 
 
 
