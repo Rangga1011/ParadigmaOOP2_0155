@@ -18,6 +18,11 @@ class joko : public seseorang
 {
 public:
 	// desklarasi
+	void  pesan()
+	{
+		// imolementasi
+		cout << "pesan dari joko" << endl;
+	}
 
 };
 
